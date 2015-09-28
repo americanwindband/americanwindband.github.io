@@ -1,0 +1,233 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+$icon-font-path: "../bower_components/bootstrap-sass-official/vendor/assets/fonts/bootstrap/";
+
+
+
+$font-size-base:          14px !default;
+$font-size-large:         ceil(($font-size-base * 1.25)) !default; // ~18px
+$font-size-small:         ceil(($font-size-base * 0.85)) !default; // ~12px
+
+$font-size-h1:            floor(($font-size-base * 2)) !default; // ~36px
+$font-size-h2:            floor(($font-size-base * 1.7)) !default; // ~30px
+$font-size-h3:            ceil(($font-size-base * 1.00)) !default; // ~24px
+$font-size-h4:            ceil(($font-size-base * 1.00)) !default; // ~18px
+$font-size-h5:            $font-size-base !default;
+$font-size-h6:            ceil(($font-size-base * 0.85)) !default; // ~12px
+
+$brand-primary:         #1f4d9e !default;
+$brand-success:         #5cb85c !default;
+$brand-info:            #5bc0de !default;
+$brand-warning:         #f0ad4e !default;
+$brand-danger:          #d9534f !default;
+
+
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+  margin-top: 0; //($line-height-computed / 2);
+  margin-bottom: 0; //($line-height-computed / 2);
+
+  small,
+  .small {
+    font-size: 75%;
+  }
+}
+
+.panel-body h3 {
+	margin: 0 0 1em 0;
+}
+
+
+
+// bower:scss
+@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+// endbower
+
+
+
+
+/* Space out content a bit */
+body {
+	font-family: $font-family-serif;
+    // padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+/* Custom page header */
+header {
+
+	margin-bottom: $grid-gutter-width;
+
+	h1 {
+		text-indent: -9999px;
+		background: url(/images/awb_logo.png) left top no-repeat;
+		background-size: 100% 100%;
+		min-width: 320px;
+		max-width: 383px;
+		height: 97px;
+		margin: 10px auto;
+		padding: 0;
+
+		@media (max-width: $grid-float-breakpoint) {
+			display: none;
+		}
+	}
+}
+
+.btn {
+	font-family: $font-family-sans-serif;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom: 10px;
+	text-transform: uppercase;
+	min-height: 0;
+}
+
+.navbar-nav > li > a {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.navbar-default {
+	border-left: 0;
+	border-right: 0;
+}
+
+main {
+	h1, h2, h3, h4, h5, h6 {
+		color: $brand-primary;
+	}
+
+	img {
+		max-width: 100%;
+	}
+
+
+}
+
+.program {
+
+	h2, h3 {
+		text-align: center;
+	}
+
+	h3 {
+		margin: 15px auto;
+	}
+
+	.row {
+		margin-top: 10px;
+		margin-bottom: 10px;
+	}
+
+	ul {
+	    max-width: 40em;
+	    padding: 0;
+	    overflow-x: hidden;
+	    list-style: none;
+
+	    li:before {
+	    	float: left;
+			width: 0;
+			white-space: nowrap;
+			content:
+				 ". . . . . . . . . . . . . . . . . . . . "
+				 ". . . . . . . . . . . . . . . . . . . . "
+				 ". . . . . . . . . . . . . . . . . . . . "
+				 ". . . . . . . . . . . . . . . . . . . . "
+		}
+
+		span:first-child {
+		    padding-right: 0.33em;
+		    background: white;
+		}
+
+		span + span {
+		    float: right;
+		    padding-left: 0.33em;
+		    background: white;
+		}
+	}
+}
+
+#members {
+	ul {
+		@extend .list-unstyled;
+		margin-bottom: 1em;
+	}
+
+	h4 {
+		font-weight: bold;
+		margin-bottom: 0;
+		text-transform: uppercase;
+	}
+}
+
+
+
+// phone only
+@media (max-width: $grid-float-breakpoint) {
+
+	body {
+		padding-top: 0;
+	}
+
+	nav.navbar {
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+
+}
+
+
+
+
+@media (min-width: $grid-float-breakpoint) {
+    .navbar-brand {
+	    display: none;
+    }
+
+    .navbar-collapse {
+	    padding-right: 0;
+	    padding-left: 0;
+    }
+}
+
+footer {
+	padding: 1em 0;
+	border-top: 1px solid #e5e5e5;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .container {
+        max-width: 960px;
+    }
+
+    /* Remove the padding we set earlier */
+    .header,
+    .marketing,
+    .footer {
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    /* Space out the masthead */
+    .header {
+        margin-bottom: 30px;
+    }
+
+    /* Remove the bottom border on the jumbotron for visual effect */
+    .jumbotron {
+        border-bottom: 0;
+    }
+}
+
+img.pull-left {
+	margin: 0 15px 15px 0;
+	border: 1px solid #ccc;
+}
