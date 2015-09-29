@@ -4,7 +4,7 @@ layout: page-12
 ---
 
 # Members
-
+<div id="members">
 <div class="row">
     <div class="col-xs-6 col-md-4">
         <img src="images/julie.jpg" class="img-responsive"/>
@@ -37,18 +37,18 @@ layout: page-12
     <div class="col-xs-6 col-sm-4">
         <h4>Flutes</h4>
         <ul>
-            <li>Karen Borow
-            <li>Christine Buik
-            <li>Lee Ann Cosper
-            <li>Paula DeBall
-            <li>Janet Gellert
-            <li>Sarah Kenealy
-            <li>Bob Kraft
-            <li>Beth Maksym
-            <li>Jacqueline Paul
-            <li>David Reed
-            <li>Carolyn Rife
-            <li>Crystal Szewczyk
+            <li>Karen Borow</li>
+            <li>Christine Buik</li>
+            <li>Lee Ann Cosper</li>
+            <li>Paula DeBall</li>
+            <li>Janet Gellert</li>
+            <li>Sarah Kenealy</li>
+            <li>Bob Kraft</li>
+            <li>Beth Maksym</li>
+            <li>Jacqueline Paul</li>
+            <li>David Reed</li>
+            <li>Carolyn Rife</li>
+            <li>Crystal Szewczyk</li>
         </ul>
 
         <h4>Oboes</h4>
@@ -87,7 +87,7 @@ layout: page-12
 
         <h4>Alto Saxophones</h4>
         <ul>
-            <li>Megan Bartlett
+            <li>Megan Bartlett</li>
             <li>John Humiston</li>
             <li>Jeff Pogwizd, Programs/Posters</li>
         </ul>
@@ -100,7 +100,9 @@ layout: page-12
 
 
         <h4>Baritone Saxophone</h4>
-        <ul><li>Bob Caplan</li></ul>
+        <ul>
+            <li>Bob Caplan</li>
+        </ul>
 
         <h4>Trumpets</h4>
         <ul>
@@ -119,13 +121,13 @@ layout: page-12
 
         <h4>French Horns</h4>
         <ul>
-            <li>Nina Green
-            <li>Hanqi Guo
-            <li>Angelo Iovinelli
-            <li>Dana Kierkegaard
-            <li>Megan Lyle
-            <li>Cristina Moody
-            <li>Nadya Zimmerman
+            <li>Nina Green</li>
+            <li>Hanqi Guo</li>
+            <li>Angelo Iovinelli</li>
+            <li>Dana Kierkegaard</li>
+            <li>Megan Lyle</li>
+            <li>Cristina Moody</li>
+            <li>Nadya Zimmerman</li>
         </ul>
 
 
@@ -170,4 +172,5 @@ layout: page-12
             <li>Mark Loftus</li>
         </ul>
     </div>
+</div>
 </div>
