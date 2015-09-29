@@ -1,6 +1,6 @@
 ---
 title: Scholarships
-layout: default
+layout: page-12
 ---
 
 # The 2015 Scholarship Winners

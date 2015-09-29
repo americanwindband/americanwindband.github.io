@@ -1,30 +1,35 @@
 ---
 title: Members
-layout: default
+layout: page-12
 ---
 
 # Members
 
 <div class="row">
     <div class="col-xs-6 col-md-4">
+        <img src="images/julie.jpg" class="img-responsive"/>
+        <p>Julie Siarny<br />
+        <em>Music Director</em></p>
+    </div>
+    <div class="col-xs-6 col-md-4">
         <img src="images/vince.jpg" class="img-responsive"/>
         <p>Vincent Furman<br />
-        <em>Founder and Director</em></p>
+        <em>Associate Director and Founder</em></p>
+    </div>
+    <div class="col-xs-6 col-md-4">
+        <img src="images/frank.jpg" class="img-responsive"/>
+        <p>Frank Rice<br />
+        <em>Master of Ceremonies</em></p>
+    </div>
+    <div class="col-xs-6 col-md-4">
+        <img src="http://placehold.it/300x300?text=Photo" class="img-responsive"/>
+        <p>Bob Klein<br />
+        <em>Master of Fanfares</em></p>
     </div>
     <div class="col-xs-6 col-md-4">
         <img src="images/angie.jpg" class="img-responsive"/>
         <p>Angelo Iovinelli<br />
-        <em>Music Director</em></p>
-    </div>
-    <div class="col-xs-6 col-md-4">
-        <img src="images/julie.jpg" class="img-responsive"/>
-        <p>Julie Siarny<br />
-        <em>Associate Director</em></p>
-    </div>
-    <div class="col-xs-6 col-md-4 col-md-pull-8">
-        <img src="images/frank.jpg" class="img-responsive"/>
-        <p>Frank Rice<br />
-        <em>Master of Ceremonies</em></p>
+        <em>Conductor Emeritus</em></p>
     </div>
 </div>
 
@@ -32,17 +37,18 @@ layout: default
     <div class="col-xs-6 col-sm-4">
         <h4>Flutes</h4>
         <ul>
-            <li>Christine Buick</li>
-            <li>Lee Ann Cosper</li>
-            <li>Paula DeBall, Piccolo</li>
-            <li>Sarah Elger</li>
-            <li>Janet Gellert</li>
-            <li>Bob Kraft</li>
-            <li>David Reed</li>
-            <li>Carolyn Rife</li>
-            <li>Julie Siarny, Associate Director</li>
-            <li>Crystal Szewcayk</li>
-            <li>Beth Trudelle</li>
+            <li>Karen Borow
+            <li>Christine Buik
+            <li>Lee Ann Cosper
+            <li>Paula DeBall
+            <li>Janet Gellert
+            <li>Sarah Kenealy
+            <li>Bob Kraft
+            <li>Beth Maksym
+            <li>Jacqueline Paul
+            <li>David Reed
+            <li>Carolyn Rife
+            <li>Crystal Szewczyk
         </ul>
 
         <h4>Oboes</h4>
@@ -53,7 +59,6 @@ layout: default
 
         <h4>Bassoon</h4>
         <ul>
-            <li>Julie Abuska</li>
             <li>Jessie Janik</li>
         </ul>
 
@@ -72,7 +77,6 @@ layout: default
         <h4>Bass Clarinet</h4>
         <ul>
             <li>Laurel Meyers</li>
-            <li>Leif Olson</li>
         </ul>
 
 
@@ -83,6 +87,7 @@ layout: default
 
         <h4>Alto Saxophones</h4>
         <ul>
+            <li>Megan Bartlett
             <li>John Humiston</li>
             <li>Jeff Pogwizd, Programs/Posters</li>
         </ul>
@@ -90,7 +95,6 @@ layout: default
         <h4>Tenor Saxophone</h4>
         <ul>
             <li>Joe Bucaro</li>
-            <li>John Dorth</li>
             <li>David Ham</li>
         </ul>
 
@@ -102,12 +106,12 @@ layout: default
         <ul>
             <li>Franco Albian</li>
             <li>Tom Bieber</li>
+            <li>Mary Borow</li>
             <li>Doug Carmichael</li>
-            <li>Steve Cooper</li>
+            <li>Stephen Cooper</li>
             <li>Harold Crane</li>
             <li>Larry Gallina</li>
             <li>Lu Garibay</li>
-            <li>Virginia Ireland</li>
             <li>Bill Rife</li>
             <li>Betty Ann Sturm</li>
             <li>Larry Zimmerman</li>
@@ -115,11 +119,13 @@ layout: default
 
         <h4>French Horns</h4>
         <ul>
-            <li>Nina Green</li>
-            <li>Dana Kierkegaard</li>
-            <li>Megan Lyle</li>
-            <li>Christina Moody</li>
-            <li>Nadya Zimmerman</li>
+            <li>Nina Green
+            <li>Hanqi Guo
+            <li>Angelo Iovinelli
+            <li>Dana Kierkegaard
+            <li>Megan Lyle
+            <li>Cristina Moody
+            <li>Nadya Zimmerman
         </ul>
 
 
@@ -130,9 +136,9 @@ layout: default
         <ul>
             <li>Bill Brewster</li>
             <li>John Burnham, Programs/Posters</li>
-            <li>Bob McGuffin, VP, Librarian</li>
             <li>Bob Klein</li>
             <li>Mary Kratchowill</li>
+            <li>Bob McGuffin, VP, Librarian</li>
             <li>Larry Mills</li>
             <li>Jeff Ozark</li>
             <li>John Schmelzel</li>
@@ -150,6 +156,7 @@ layout: default
 
         <h4>Tubas</h4>
         <ul>
+            <li>Tom Borow</li>
             <li>Miriam Krause</li>
             <li>Kevin Laude</li>
             <li>John Pyszka</li>

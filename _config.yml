@@ -1,7 +1,7 @@
 # Site settings
 title: American Wind Band
 email: your-email@domain.com
-description: > Community concert band based in Downers Grove, Illinois since 1988.
+description: Community concert band based in Downers Grove, Illinois since 1988.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://americanwindband.org" # the base hostname & protocol for your site
 twitter_username: jekyllrb

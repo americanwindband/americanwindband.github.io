@@ -1,6 +1,6 @@
 ---
 title: Sponsors
-layout: default
+layout: page-12
 ---
 
 
