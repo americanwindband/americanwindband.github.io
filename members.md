@@ -22,7 +22,7 @@ layout: page-12
         <em>Master of Ceremonies</em></p>
     </div>
     <div class="col-xs-6 col-md-4">
-        <img src="http://placehold.it/300x300?text=Photo" class="img-responsive"/>
+        <img src="images/bob_klein.jpg" class="img-responsive"/>
         <p>Bob Klein<br />
         <em>Master of Fanfares</em></p>
     </div>
