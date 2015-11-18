@@ -231,3 +231,17 @@ img.pull-left {
 	margin: 0 15px 15px 0;
 	border: 1px solid #ccc;
 }
+
+.holiday {
+    padding: 1.6rem;
+    background-color: $state-danger-bg;
+    margin-bottom: 1.6rem;
+
+    h2 {
+        margin-top: 0;
+    }
+
+    p {
+        margin-bottom: 0;
+    }
+}
