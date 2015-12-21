@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: Community concert band based in Downers Grove, Illinois since 1988.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://americanwindband.org" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 
 # Build settings
 markdown: kramdown

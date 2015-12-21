@@ -2,8 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 # Only imports, please
 ---
-
-@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 @import 'variables';
+@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
+
 
 @import 'awb_main';
