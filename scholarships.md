@@ -22,7 +22,7 @@ If you have any questions, email [americanwindbandil@gmail.com](mailto:americanw
 
 ## Application Materials
 
-- [Application Form](/forms/application_form_2016.pdf) - due by February 12, 2016
+- [Application Form](/files/application_form_2016.pdf) - due by February 12, 2016
 - [Solo Scholarship Audition Information letter](/files/applicant_letter_2016.pdf)
 - [Scholarship Program Poster](/files/poster_2016.pdf)
 
