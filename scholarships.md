@@ -1,31 +1,33 @@
 ---
 title: Scholarships
-layout: page-10
+layout: page-12
 ---
 
-# The American Wind Band Scholarship Program
+# The 2016 Scholarship Winners
 
-It’s solo competition season! The American Wind Band continues to inspire gifted young musicians with our 16th annual Scholarship Competition, with **$1,300** to be awarded to one high school soloist and **$900** to each of two 8th grade soloists.
+<div class="row">
+    <div class="col-md-4">
+        <p><img class="img-responsive" src="/images/Allison_Brandt.jpg">
+        Allison Brandt</p>
+    </div>
+    <div class="col-md-4">
+        <p><img class="img-responsive" src="/images/Chinmay_Amin.jpg">
+        Chinmay Amin</p>
+    </div>
+    <div class="col-md-4">
+        <p><img class="img-responsive" src="/images/Evan_Eldridge.jpg">
+    Evan Eldridge</p>
+    </div>
+</div>
 
-We provide scholarships are provided to promote private music study or participation in music camps.
+<hr />
 
-Please note that our new application format is now a two-step process:
+<div class="row">
+    <div class="col-md-6">
+        <p>The American Wind Band is proud to announce the recipients of the 2016 Scholarships.  The Scholarships were established 16 years ago to encourage continuing education on a wind or percussion instruments.  </p>
 
-- Applicants will provide sound recordings of their solos for the first round of the competition. Judges will only consider the quality of the recorded performance, not the quality of the media used.
-- Based upon those recordings, the scholarship committee will select contestants to compete in the second round: a live audition.
+        <p>The winner of the Kowalski Scholarship for high school students is <strong>Allison Brandt</strong>, clarinet, of Downers South High School.  Allison will receive $1300 to continue her private studies or attend music camp.  The winner of the Iovinelli/Capizzi Scholarship is <strong>Chinmay Amin</strong>, euphonium, of Westview Hills Middle School.  The winner of the Nagursey Scholarship is <strong>Evan Eldridge</strong>, trumpet, also of Westview Hills Middle School.</p>
 
-The live audition will be held on Saturday, March 12, 2016, at Gloria Dei Lutheran Church, 4501 Main Street, Downers Grove, Illinois.
-
-To be scholarship recipients, second round winners are required to perform at our concert at the Hinsdale South High School Auditorium, 7401 Clarendon Hills Road, Darien, Illinois on Sunday, April 24, 2016, at 3:00 p.m. Our dedicated and growing audience appreciates the inspiring performances of the young contestants, and the scholarship concert is a favorite of many band members.
-
-If you have any questions, email [americanwindbandil@gmail.com](mailto:americanwindbandil@gmail.com).
-
-## Application Materials
-
-- [Application Form](/files/application_form_2016.pdf) - due by February 12, 2016
-- [Solo Scholarship Audition Information letter](/files/applicant_letter_2016.pdf)
-- [Scholarship Program Poster](/files/poster_2016.pdf)
-
-You may also [apply online](http://goo.gl/forms/Dvz6H6w3gy) via Google Forms.
-
-We look forward to your audition. Good luck!
+        <p>Each of these eighth graders will receive $900 towards private lessons or music camp.  They were all selected by audition from amongst 25 applicants.  The winners will play their solos on our Scholarship Concert on April 24th at Hinsdale South High School at 3PM.</p>
+    </div>
+</div>
