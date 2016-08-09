@@ -469,9 +469,9 @@ $pager-disabled-color:                 $pagination-disabled-color !default;
 //
 //##
 
-$jumbotron-padding:              30px !default;
+$jumbotron-padding:              0; //30px !default;
 $jumbotron-color:                inherit !default;
-$jumbotron-bg:                   $gray-lighter !default;
+$jumbotron-bg:                   rgb(2, 3, 2); //$gray-lighter !default;
 $jumbotron-heading-color:        inherit !default;
 $jumbotron-font-size:            ceil(($font-size-base * 1.5)) !default;
 

@@ -86,8 +86,20 @@ main {
 
 .program {
 
-	
+	/*
+	Sample program layout
+	<ul>
+	    <li><span>The Star Spangled Banner</span>
+	    <span>arr. Moffit</span></li>
 
+	    <li><span>Colas Breugnon Overture</span>
+	    <span>Kabalevsky/Beeler</span></li>
+
+	    <li><span>Italian Polka</span>
+	    <span>Rachmaninoff/Roussanova Lucas</span></li>
+
+	</ul>
+	*/
 	.row {
 		//margin-top: 1rem;
 		//margin-bottom: 10px;
@@ -213,4 +225,17 @@ img.pull-left {
     p {
         margin-bottom: 0;
     }
+}
+
+.jumbotron {
+	margin-bottom: 3rem;
+	.container {
+		padding-left: 0;
+		padding-right: 0;
+		max-width: 100%;
+	}
+
+	.img-responsive {
+		width: 100%;
+	}
 }
