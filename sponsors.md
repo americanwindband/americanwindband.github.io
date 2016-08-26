@@ -36,38 +36,34 @@ Our deepest gratitude to the following organizations that have helped sponsor th
     </div>
 </div>
 
-## <a id="place-an-ad"></a>Place an Ad In Our Concert Program
+# <a id="place-an-ad"></a>Place an Ad In Our Concert Program
 
+## Who We are
 
-We perform five concerts every season, including a holiday concert and a patriotic concert. Money raised from ads will be used for necessary operating costs of a community band, including renting performance space, purchasing music, repairing and replacing equipment, purchasing insurance, printing costs, and renting a P.O. Box.
+We are a community band that rehearses and performs in and around Downers Grove. We have performed at Lincoln Center, American Legion Post 80, the Tivoli Theater, Gloria Dei Lutheran Church, Avery Coonley School, Downers Grove South High School, Veterans Memorial Pavilion at Fishel Park, Elmhurst Christian Reformed Church, Lyons Township High School, and Hinsdale South High School. We perform five concerts every season, including a holiday concert and a patriotic concert. Money raised from ads will be used for necessary operating costs of a community band, including renting performance space, purchasing music, repairing and replacing equipment, purchasing insurance, printing costs, advertising, and renting a P.O. Box.
 
-Contributors will receive an ad in all five of our concert programs for the 2015-2016 season. Concert dates are tentatively scheduled for:
+Contributors will receive:
 
-
-- Sunday, October 25, 2015 at 3:00 p.m.
-- Sunday, December 6 or 13, 2015 at 3:00 p.m.
-- Sunday, February 21, 2016 at 3:00 p.m.
-- Sunday, April 24, 2016 at 3:00 p.m.
-- June 3 or 7, 2016 at 7:00 p.m.
-
-Business sponsors will also receive a space on our band website: www.americanwindband.org.
+- An ad in all five of our concert programs for the 2016-2017 season. Our concerts are on Sunday afternoons in October, December, February, April, and June.
+- Business sponsors will also receive a space on our band website: www.americanwindband.org.
+- We are a 501c3 organization so your payment is tax deductible.
 
 All contributors will receive a thank you note and a copy of each concert program purchased. We are a 501c3 organization so your payment is tax deductible.
 
-### Ad pricing
+## Ad pricing
 
 - 1⁄4 page (horizontal 4.25”x 1.8” or vertical 2.25” x 3.625”): $125 for the season or $25/concert
 - 1⁄2 page (4.5” x 3.625”): $250 for the season or $50/concert
 - full page (4.5” x 7.25”): $500 for the season or $100/concert
 
 
-### To submit an ad
+## To submit an ad
 
-- Fill out the attached form and mail it with your check to American Wind Band, P.O. Box 605, Downers Grove, IL 60515. Checks should be made payable to American Wind Band. Forms are also available online at www.americanwindband.org.</li>
-- Please provide us with a basic layout and design for your ad, including your company logo, if applicable. Email submissions to americanwindbandil@gmail.com. While electronic submissions are preferred, we will accept a hard copy, which you can include with your order form and check.</li>
-- To be included in the first program, we must have all of the above by Saturday, October 3, 2015. Ads for individual concert programs are due three weeks before the concert.</li>		            
+- Fill out the attached form and mail it with your check to American Wind Band, P.O. Box 605, Downers Grove, IL 60515. Checks should be made payable to American Wind Band. Forms are also available online at www.americanwindband.org.
+- Please provide us with a basic layout and design for your ad, including your company logo, if applicable. Email submissions to americanwindbandil@gmail.com. While electronic submissions are preferred, we will accept a hard copy, which you can include with your order form and check.
+- To be included in the first program, we must have all of the above by **Saturday, October 1, 2016.** Ads for individual concert programs are due three weeks before the concert.            
 
 ## Place Your Ad Today!
 
-- [Printable Ad Form (PDF)]("/files/ad-form-2015.pdf")
+- [Printable Ad Form (PDF)](/files/ad-form-2016.pdf)
 - [Online Ad Form](https://docs.google.com/forms/d/1s55DJif0Z29gJ65bdsFIsh4oQ8Kmb74pjYvSvaBUX9E/viewform?usp=send_form)
