@@ -42,10 +42,8 @@ layout: page-12
             <li>Lee Ann Cosper</li>
             <li>Paula DeBall</li>
             <li>Janet Gellert</li>
-            <li>Sarah Kenealy</li>
-            <li>Bob Kraft</li>
             <li>Beth Maksym</li>
-            <li>Jacqueline Paul</li>
+            <li>Elayne Moxon</li>
             <li>David Reed</li>
             <li>Carolyn Rife</li>
             <li>Crystal Szewczyk</li>
@@ -66,7 +64,10 @@ layout: page-12
         <ul>
             <li>Christopher Bucaro</li>
             <li>Nancy DeNapoli</li>
+            <li>Jennifer Hentrich</li>
+            <li>Kristin Hydon</li>
             <li>Wally Kerns</li>
+            <li>Gina Leo</li>
             <li>Mark McNulty</li>
             <li>Art Perez</li>
             <li>Frank Rice, MC</li>
@@ -87,9 +88,8 @@ layout: page-12
 
         <h4>Alto Saxophones</h4>
         <ul>
-            <li>Megan Bartlett</li>
+            <li>John Dorth</li>
             <li>John Humiston</li>
-            <li>Jeff Pogwizd, Programs/Posters</li>
         </ul>
 
         <h4>Tenor Saxophone</h4>
@@ -108,12 +108,11 @@ layout: page-12
         <ul>
             <li>Franco Albian</li>
             <li>Tom Bieber</li>
-            <li>Mary Borow</li>
             <li>Doug Carmichael</li>
             <li>Stephen Cooper</li>
             <li>Harold Crane</li>
-            <li>Larry Gallina</li>
             <li>Lu Garibay</li>
+            <li>Lelia Jennings</li>
             <li>Bill Rife</li>
             <li>Betty Ann Sturm</li>
             <li>Larry Zimmerman</li>
@@ -125,7 +124,6 @@ layout: page-12
             <li>Hanqi Guo</li>
             <li>Angelo Iovinelli</li>
             <li>Dana Kierkegaard</li>
-            <li>Megan Lyle</li>
             <li>Cristina Moody</li>
             <li>Nadya Zimmerman</li>
         </ul>
@@ -136,24 +134,22 @@ layout: page-12
     <div class="col-xs-6 col-sm-4">
         <h4>Trombones</h4>
         <ul>
+            <li>Drew Baxter</li>
+            <li>Dan Bieber</li>
             <li>Bill Brewster</li>
-            <li>John Burnham, Programs/Posters</li>
             <li>Bob Klein</li>
             <li>Mary Kratchowill</li>
             <li>Bob McGuffin, VP, Librarian</li>
-            <li>Larry Mills</li>
+            <li>Jennifer Nelmark</li>
             <li>Jeff Ozark</li>
             <li>John Schmelzel</li>
         </ul>		
 
         <h4>Euphoniums</h4>
         <ul>
-            <li>Tom Cossa</li>
             <li>Paul Eakley</li>
-            <li>Joan Ellman</li>
-            <li>Richard Frank</li>
             <li>Coreen Giesler</li>
-            <li>Kathleen Meyer</li>
+            <li>George Hardwidge</li>
         </ul>
 
         <h4>Tubas</h4>

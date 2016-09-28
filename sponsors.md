@@ -19,11 +19,18 @@ Our deepest gratitude to the following organizations that have helped sponsor th
             <li><a href="http://www.dgparks.org" target="_blank">Downers Grove Park District</a></li>
             <li><a href="http://www.gloriadeichurch.org" target="_blank">Gloria Dei Lutheran Church</a></li>
             <li><a href="http://s420747875.onlinehome.us" target="_blank">Hapkido Academy</a></li>
+            <li>
+                <a href="http://www.oakbrooklaw.com/" target="_blank">McPherson Harry &amp; Associates</a><br />
+                <a href="http://www.oakbrooklaw.com/" target="_blank">
+                    <img src="/images/mcphersonharry.gif" class="img-responsive" />
+                </a>
+            </li>
         </ul>
     </div>
     <div class="col-sm-6">
         <ul class="list-unstyled">
             <li><a href="http://www.dg58.org/he" target="_blank">Herrick Middle School</a></li>
+
             <li><a href="http://www.modernmusiclisle.com" target="_blank">Modern Music</a>, Lisle, IL</li>
             <li><a href="http://www.dg58.org/on" target="_blank">O'Neill Middle School</a></li>
             <li><a href="http://www.paulwindsororchestra.com" target="_blank">Paul Windsor Orchestra</a></li>
