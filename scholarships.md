@@ -3,31 +3,19 @@ title: Scholarships
 layout: page-12
 ---
 
-# The 2016 Scholarship Winners
+# Scholarships
 
 <div class="row">
-    <div class="col-md-4">
-        <p><img class="img-responsive" src="/images/Allison_Brandt.jpg">
-        Allison Brandt</p>
-    </div>
-    <div class="col-md-4">
-        <p><img class="img-responsive" src="/images/Chinmay_Amin.jpg">
-        Chinmay Amin</p>
-    </div>
-    <div class="col-md-4">
-        <p><img class="img-responsive" src="/images/Evan_Eldridge.jpg">
-    Evan Eldridge</p>
-    </div>
-</div>
+    <div class="col-md-8">
+        <p>We wish to thank you for your interest in our scholarship competition. The high school finalist will be awarded a $1,300.00 scholarship, and the two 8th grade finalists will each be awarded a $900.00 scholarship. The scholarship money will be paid to each student’s private teacher for future study on a band instrument or the band camp of the student’s choosing. Parents are required to be a part of the audience during the competition.</p>
 
-<hr />
+        <p>We have a two-step audition process. Applicants will provide sound recordings of their solos for the first round of the competition. Judges will only consider the quality of the recorded performance but not the quality of the media used. Based upon those recordings, the scholarship committee will select contestants to compete in a live audition. This second round will be held on Saturday, March 12, 2017, at Gloria Dei Lutheran Church, 4501 Main Street, Downers Grove, Illinois.</p>
 
-<div class="row">
-    <div class="col-md-6">
-        <p>The American Wind Band is proud to announce the recipients of the 2016 Scholarships.  The Scholarships were established 16 years ago to encourage continuing education on a wind or percussion instruments.  </p>
+        <p>Thank you for your interest, and we look forward to hearing from you!</p>
 
-        <p>The winner of the Kowalski Scholarship for high school students is <strong>Allison Brandt</strong>, clarinet, of Downers South High School.  Allison will receive $1300 to continue her private studies or attend music camp.  The winner of the Iovinelli/Capizzi Scholarship is <strong>Chinmay Amin</strong>, euphonium, of Westview Hills Middle School.  The winner of the Nagursey Scholarship is <strong>Evan Eldridge</strong>, trumpet, also of Westview Hills Middle School.</p>
-
-        <p>Each of these eighth graders will receive $900 towards private lessons or music camp.  They were all selected by audition from amongst 25 applicants.  The winners will play their solos on our Scholarship Concert on April 24th at Hinsdale South High School at 3PM.</p>
+        <ul>
+            <li><a href="/files/applicant_letter_2017.pdf">Applicant Letter</a></li>
+            <li><a href="/files/application_form_2017.pdf">Application Form</a></li>
+        </ul>
     </div>
 </div>
