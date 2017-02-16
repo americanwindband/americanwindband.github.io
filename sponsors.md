@@ -32,6 +32,7 @@ Our deepest gratitude to the following organizations that have helped sponsor th
             <li><a href="http://www.dg58.org/he" target="_blank">Herrick Middle School</a></li>
 
             <li><a href="http://www.modernmusiclisle.com" target="_blank">Modern Music</a>, Lisle, IL</li>
+			<li><a href="http://www.mrwaynespcc.com/" target="_blank">Mr. Wayne's Pop Culture Collectibles</a></li>
             <li><a href="http://www.dg58.org/on" target="_blank">O'Neill Middle School</a></li>
             <li><a href="http://www.paulwindsororchestra.com" target="_blank">Paul Windsor Orchestra</a></li>
             <li>Premier Wedding band</li>
@@ -69,7 +70,7 @@ All contributors will receive a thank you note and a copy of each concert progra
 
 - Fill out the attached form and mail it with your check to American Wind Band, P.O. Box 605, Downers Grove, IL 60515. Checks should be made payable to American Wind Band. Forms are also available online at www.americanwindband.org.
 - Please provide us with a basic layout and design for your ad, including your company logo, if applicable. Email submissions to americanwindbandil@gmail.com. While electronic submissions are preferred, we will accept a hard copy, which you can include with your order form and check.
-- To be included in the first program, we must have all of the above by **Saturday, October 1, 2016.** Ads for individual concert programs are due three weeks before the concert.            
+- To be included in the first program, we must have all of the above by **Saturday, October 1, 2016.** Ads for individual concert programs are due three weeks before the concert.
 
 ## Place Your Ad Today!
 
