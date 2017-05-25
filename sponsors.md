@@ -53,7 +53,7 @@ We are a community band that rehearses and performs in and around Downers Grove.
 
 Contributors will receive:
 
-- An ad in all five of our concert programs for the 2016-2017 season. Our concerts are on Sunday afternoons in October, December, February, April, and June.
+- An ad in all five of our concert programs for the 2017-2018 season. Our concerts are on Sunday afternoons in October, December, February, April, and June.
 - Business sponsors will also receive a space on our band website: www.americanwindband.org.
 - We are a 501c3 organization so your payment is tax deductible.
 
@@ -69,10 +69,10 @@ All contributors will receive a thank you note and a copy of each concert progra
 ## To submit an ad
 
 - Fill out the attached form and mail it with your check to American Wind Band, P.O. Box 605, Downers Grove, IL 60515. Checks should be made payable to American Wind Band. Forms are also available online at www.americanwindband.org.
-- Please provide us with a basic layout and design for your ad, including your company logo, if applicable. Email submissions to americanwindbandil@gmail.com. While electronic submissions are preferred, we will accept a hard copy, which you can include with your order form and check.
-- To be included in the first program, we must have all of the above by **Saturday, October 1, 2016.** Ads for individual concert programs are due three weeks before the concert.
+- Please provide us with a basic layout and design for your ad, including your company logo, if applicable. Email submissions to americanwindbandil@gmail.com. While electronic submissions are preferred, we will accept a hard copy, which you can include with your order form and check. Preferred electronic formats are listed on the form.
+- To be included in the first program, we must have all of the above by **Saturday, Septmeber 30, 2017.** Ads for individual concert programs are due three weeks before the concert.
 
 ## Place Your Ad Today!
 
-- [Printable Ad Form (PDF)](/files/ad-form-2016.pdf)
+- [Printable Ad Form (PDF)](/files/ad-form-2017.pdf)
 - [Online Ad Form](https://docs.google.com/forms/d/1s55DJif0Z29gJ65bdsFIsh4oQ8Kmb74pjYvSvaBUX9E/viewform?usp=send_form)
