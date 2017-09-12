@@ -87,6 +87,7 @@ layout: page-12
 
 
     </ul>
+    </div>
 
     <div class="col-xs-6 col-sm-4">
 
@@ -133,7 +134,7 @@ layout: page-12
             <li>William Stafanisin</li>
             <li>Nadya Zimmerman</li>
         </ul>
-
+</div>
 
 
     <div class="col-xs-6 col-sm-4">
