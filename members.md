@@ -86,7 +86,7 @@ layout: page-12
             <li>Lisa Curless</li>
 
 
-    </div>
+    </ul>
 
     <div class="col-xs-6 col-sm-4">
 
@@ -128,14 +128,13 @@ layout: page-12
         <ul>
             <li>Nina Green</li>
             <li>Dana Kierkegaard</li>
-            <li>Amanda McFarlin</li
+            <li>Amanda McFarlin</li>
             <li>Cristina Moody</li>
             <li>William Stafanisin</li>
             <li>Nadya Zimmerman</li>
         </ul>
 
 
-    </div>
 
     <div class="col-xs-6 col-sm-4">
         <h4>Trombones</h4>
@@ -175,5 +174,4 @@ layout: page-12
             <li>Mark Loftus</li>
         </ul>
     </div>
-</div>
-</div>
+
