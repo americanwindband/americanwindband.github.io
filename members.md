@@ -37,12 +37,14 @@ layout: page-12
     <div class="col-xs-6 col-sm-4">
         <h4>Flutes</h4>
         <ul>
+            <li>Rachael Beles</li>
             <li>Karen Borow</li>
             <li>Christine Buik</li>
             <li>Lee Ann Cosper</li>
             <li>Paula DeBall</li>
             <li>Janet Gellert</li>
-            <li>Beth Maksym</li>
+            <li>Lynne Glennon</li>
+            <li>Alison Labarge</li>
             <li>Elayne Moxon</li>
             <li>David Reed</li>
             <li>Carolyn Rife</li>
@@ -65,7 +67,6 @@ layout: page-12
             <li>Christopher Bucaro</li>
             <li>Nancy DeNapoli</li>
             <li>Jennifer Hentrich</li>
-            <li>Kristin Hydon</li>
             <li>Wally Kerns</li>
             <li>Gina Leo</li>
             <li>Mark McNulty</li>
@@ -78,8 +79,11 @@ layout: page-12
         <h4>Bass Clarinet</h4>
         <ul>
             <li>Laurel Meyers</li>
+            <li>Rachel Martello</li>
         </ul>
-
+        <ul>
+            <h4>Contrabass Clarinet</h4>
+            <li>Lisa Curless</li>
 
 
     </div>
@@ -88,14 +92,15 @@ layout: page-12
 
         <h4>Alto Saxophones</h4>
         <ul>
-            <li>John Dorth</li>
+            <li>Alan Holley</li>
             <li>John Humiston</li>
+            <li>Ed Zajda</li>
         </ul>
 
         <h4>Tenor Saxophone</h4>
         <ul>
             <li>Joe Bucaro</li>
-            <li>David Ham</li>
+            <li>John Dorth</li>
         </ul>
 
 
@@ -106,14 +111,15 @@ layout: page-12
 
         <h4>Trumpets</h4>
         <ul>
-            <li>Franco Albian</li>
+            <li>Elizabeth Bieber</li>
             <li>Tom Bieber</li>
             <li>Doug Carmichael</li>
             <li>Stephen Cooper</li>
             <li>Harold Crane</li>
-            <li>Lu Garibay</li>
+            <li>Patrick Hsiao</li>
             <li>Lelia Jennings</li>
             <li>Bill Rife</li>
+            <li>Alicia Settles</li>
             <li>Betty Ann Sturm</li>
             <li>Larry Zimmerman</li>
         </ul>
@@ -121,10 +127,10 @@ layout: page-12
         <h4>French Horns</h4>
         <ul>
             <li>Nina Green</li>
-            <li>Hanqi Guo</li>
-            <li>Angelo Iovinelli</li>
             <li>Dana Kierkegaard</li>
+            <li>Amanda McFarlin</li
             <li>Cristina Moody</li>
+            <li>William Stafanisin</li>
             <li>Nadya Zimmerman</li>
         </ul>
 
@@ -134,7 +140,6 @@ layout: page-12
     <div class="col-xs-6 col-sm-4">
         <h4>Trombones</h4>
         <ul>
-            <li>Drew Baxter</li>
             <li>Dan Bieber</li>
             <li>Bill Brewster</li>
             <li>Bob Klein</li>
@@ -149,15 +154,16 @@ layout: page-12
         <ul>
             <li>Paul Eakley</li>
             <li>Coreen Giesler</li>
-            <li>George Hardwidge</li>
         </ul>
 
         <h4>Tubas</h4>
         <ul>
             <li>Tom Borow</li>
+            <li>Benjamin Curless</li>
             <li>Miriam Krause</li>
             <li>Kevin Laude</li>
             <li>John Pyszka</li>
+            <li>Jason Theuman</li>
         </ul>
 
         <h4>Percussion</h4>
@@ -165,6 +171,7 @@ layout: page-12
             <li>Jeff Bugajski</li>
             <li>Tom Faldani</li>
             <li>Peter Hamot</li>
+            <li>Erin Kuhl</li>
             <li>Mark Loftus</li>
         </ul>
     </div>
