@@ -65,11 +65,13 @@ layout: page-12
         <h4>Clarinets</h4>
         <ul>
             <li>Christopher Bucaro</li>
+            <li>Jim Cronin</li>
             <li>Nancy DeNapoli</li>
             <li>Jennifer Hentrich</li>
             <li>Wally Kerns</li>
             <li>Gina Leo</li>
             <li>Mark McNulty</li>
+            <li>Floyd Meadows</li>
             <li>Art Perez</li>
             <li>Frank Rice, MC</li>
             <li>Larry Svab, Associate Librarian</li>
@@ -80,6 +82,7 @@ layout: page-12
         <ul>
             <li>Laurel Meyers</li>
             <li>Rachel Martello</li>
+            <li>Benjamin Pike</li>
         </ul>
         <ul>
             <h4>Contrabass Clarinet</h4>
@@ -143,7 +146,7 @@ layout: page-12
             <li>Dan Bieber</li>
             <li>Bill Brewster</li>
             <li>Bob Klein</li>
-            <li>Mary Kratchowill</li>
+            <li>Mary Kratochwill</li>
             <li>Bob McGuffin, VP, Librarian</li>
             <li>Jennifer Nelmark</li>
             <li>Jeff Ozark</li>
