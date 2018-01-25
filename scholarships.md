@@ -14,8 +14,8 @@ layout: page-12
         <p>Thank you for your interest, and we look forward to hearing from you!</p>
 
         <ul>
-            <li><a href="/files/awb-scholarship-applicant-letter-2018" target="new">Applicant Letter</a></li>
-            <li><a href="/files/awb-schalarship-application-form-2018" target="new">Application Form</a></li>
+            <li><a href="files/awb-scholarship-applicant-letter-2018" target="new">Applicant Letter</a></li>
+            <li><a href="files/awb-schalarship-application-form-2018" target="new">Application Form</a></li>
         </ul>
     </div>
 </div>
