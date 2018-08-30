@@ -32,4 +32,9 @@ layout: page-12
 	<br>
 	
 		
-	</div>
+	
+<footer id="copyright"><p>&copy; American Wind Band<br><a href="mailto:americanwindbandil@gmail.com">americanwindbandil@gmail.com</a><br>P.O. Box 605 Downers Grove, IL 60515<br>The AWB is organized under section 501(c)(3) of the Internal Revenue Code.
+</p>
+</footer>
+</body>
+</html>
