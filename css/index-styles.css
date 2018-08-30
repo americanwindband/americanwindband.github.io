@@ -2,7 +2,7 @@
 
 .section-scholarship-tile {
     clear: none;
-    width: 24%;
+    width: 20%;
     left: 1%;
     right: 1%;
     padding-left: 1%;
@@ -17,7 +17,7 @@
 .section-advertise-tile {
     padding-left: 1%;
     padding-right: 1%;
-    width: 24%;
+    width: 20%;
     left: 1%;
     right: 1%;
     clear: none;
@@ -31,7 +31,7 @@
 
 .section-next-concert-tile {
 	clear: none;	
-	width: 24%;    
+	width: 20%;    
 	text-align: center;
     	background-color: rgba(255,255,255,0.75);
 	
