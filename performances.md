@@ -21,13 +21,4 @@ layout: page-12
 	<p>Tentative</p>
 	<br />
 	<h2>Please save these dates in your calendar!</h2></p>
-    <img src="images/family-photo2017-2018.jpg" width="100%" height="100%" alt=""/>
-	<br />
-	
-		
-	
-<footer id="copyright"><p>&copy; American Wind Band<br><a href="mailto:americanwindbandil@gmail.com">americanwindbandil@gmail.com</a><br>P.O. Box 605 Downers Grove, IL 60515<br>The AWB is organized under section 501(c)(3) of the Internal Revenue Code.
-</p>
-</footer>
-</body>
-</html>
+
