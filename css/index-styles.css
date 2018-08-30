@@ -29,7 +29,7 @@
     display: block;
 }
 
-.section-next-concert-tile img{
+.section-next-concert-tile {
 	clear: none;	
 	width: 20%;    
 	text-align: center;
