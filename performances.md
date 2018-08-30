@@ -1,13 +1,7 @@
 ---
 layout: page-12
 ---
-</div><!-- col-xs-12 -->
-</div><!-- /.row -->
-</main>
-</div><!-- .container -->
 
-
-<div>
 	  <h1>Our 2018-2019 Season...</h1>
 	</div><br>
 	<div><p><h3>Sunday, October 21 - 3:00 p.m.</h3>
@@ -29,7 +23,7 @@ layout: page-12
 </p></div>
 	<div>
     <img src="images/family-photo2017-2018.jpg" width="100%" height="100%" alt=""/>
-	<br></div>
+	<br>
 	
 		
 	
