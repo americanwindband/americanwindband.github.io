@@ -5,7 +5,7 @@ layout: page-12
 </div><!-- /.row -->
 </main>
 </div><!-- .container -->
-
+<link href="css/styles.css" rel="stylesheet" type="text/css">
 
 <div class="content-h1-title">
 	  <h1>Our 2018-2019 Season...</h1>
