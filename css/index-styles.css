@@ -30,6 +30,7 @@
 }
 
 .section-next-concert-tile {
+	clear: none;	
 	width: 24%;    
 	text-align: center;
     	background-color: rgba(255,255,255,0.75);
