@@ -29,7 +29,7 @@ layout: page-12
 </p></div>
 	<div>
     <img src="images/family-photo2017-2018.jpg" width="100%" height="100%" alt=""/>
-	<br>
+	<br></div>
 	
 		
 	
