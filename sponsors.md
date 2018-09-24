@@ -74,5 +74,5 @@ All contributors will receive a thank you note and a copy of each concert progra
 
 ## Place Your Ad Today!
 
-- [Printable Ad Form (PDF)](/files/ad-form-2017.pdf)
+- [Printable Ad Form (PDF)](/files/ad-form-2018.pdf)
 - [Online Ad Form](https://docs.google.com/forms/d/1s55DJif0Z29gJ65bdsFIsh4oQ8Kmb74pjYvSvaBUX9E/viewform?usp=send_form)
