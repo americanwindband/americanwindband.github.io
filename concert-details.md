@@ -5,7 +5,7 @@ layout: page-12
 
 <h1>Our next concert…</h1>
 
- <br /><strong>Sunday, October 21</strong><br />3:00 p.m. - Elmhurst Christian Reformed Church, <a href="https://www.google.com/maps/dir/''/4000+Saratoga+Ave,+Downers+Grove,+IL+60515/@41.8136354,-88.1557828,12z/data=!4m8!4m7!1m0!1m5!1m1!1s0x880e51fcb71f0ff9:0xb2103f9dcdce9da1!2m2!1d-88.0157051!2d41.8136567" target="new">4000 Saratoga Ave., Downers Grove</a><br/>
+ <br /><strong>Sunday, October 21</strong><br />3:00 p.m. - Elmhurst Christian Reformed Church, <a href="https://goo.gl/maps/R6bzZrmuCqm" target="new">149 W. Brush Hill Road, Elmhurst</a><br/>
  
 Bring a lawn chair or a blanket and join us in the great outdoors for some great music.  Don’t worry about mother nature.  In case of inclement weather, concert will be held indoors.<br  />
                         <br/><img src="images/awb-poster-coming-soon-01.jpg" width="315" height="405" alt=""/>
