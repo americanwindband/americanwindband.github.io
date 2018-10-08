@@ -20,5 +20,5 @@ layout: page-12
 <strong>Sunday, June 2 - 3:00 p.m.</strong>	
 <p>Tentative</p>
 <br />
-<h2>Please save these dates in your calendar!</h2></p>
+<h2>Please save these dates in your calendar!</h2>
 
