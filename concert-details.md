@@ -7,8 +7,8 @@ layout: page-12
 
  <br /><strong>Sunday, December 9 - 3:00 p.m.</strong>
 <p>Union Church of Hinsdale, <a href="https://goo.gl/maps/aumncQ5T9bs" target="_blank">137 S. Garfield St., Hinsdale</a></p>
-<br /><br/>
+<br />
 
-<br/><img src="images/awb-oct-2018-concert-poster.jpg" width="315" height="405" alt=""/>
+<br/><img src="images/awb-poster-coming-soon-01.jpg" width="315" height="405" alt=""/>
 
 <h1>...see you there!<h1>
