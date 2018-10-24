@@ -5,7 +5,9 @@ layout: page-12
 
 <h1>Our next concert…</h1>
 
- <br /><strong>Sunday, October 21</strong><br />3:00 p.m. - Elmhurst Christian Reformed Church, <a href="https://goo.gl/maps/R6bzZrmuCqm" target="new">149 W. Brush Hill Road, Elmhurst</a><br/>
+ <br /><strong>Sunday, December 9 - 3:00 p.m.</strong>
+<p>Union Church of Hinsdale, <a href="https://goo.gl/maps/aumncQ5T9bs" target="_blank">137 S. Garfield St., Hinsdale</a></p>
+<br /><br/>
 
 <br/><img src="images/awb-oct-2018-concert-poster.jpg" width="315" height="405" alt=""/>
 
