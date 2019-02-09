@@ -9,6 +9,6 @@ layout: page-12
 <p>Elmhurst Christian Reformed Church, <a href="https://goo.gl/maps/7kp1NLkiNZ62" target="_blank">149 W. Brush Hill Road, Elmhurst</a></p>
 <br />
 
-<br/><img src="images/awb-poster-coming-soon-01.jpg" width="315" height="405" alt=""/>
+<br/><img src="images/awb-feb-2019-concert-poster-315x405.png" width="315" height="405" alt=""/>
 
 <h1>...see you there!<h1>
