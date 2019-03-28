@@ -5,7 +5,7 @@ layout: page-12
 
 <h1>Our next concert…</h1>
 
- <br /><strong>Sunday, April 14 - 3:00 p.m.</strong>
+ <br /><strong>Sunday, April 14 - Annual Scholarship Concert - 3:00 p.m.</strong>
 <p>Nazareth Academy, <a href="https://goo.gl/maps/EEN1YzFQYM42" target="_blank">1209 Ogden Ave. LaGrange Park</a></p>
 <br />
 
